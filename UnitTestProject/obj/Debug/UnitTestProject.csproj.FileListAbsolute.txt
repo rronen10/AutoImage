@@ -1,0 +1,15 @@
+C:\TestProjects\ImageBaseTest\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\ImageBaseTest.dll
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\AForge.Imaging.dll
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\AForge.dll
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\AForge.Math.dll
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\ImageBaseTest.pdb
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\AForge.Imaging.xml
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\AForge.xml
+C:\TestProjects\ImageBaseTest\UnitTestProject\bin\Debug\AForge.Math.xml
+C:\TestProjects\ImageBaseTest\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\TestProjects\ImageBaseTest\UnitTestProject\obj\Debug\UnitTestProject.pdb

@@ -1,0 +1,11 @@
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\ImageBaseTest.dll
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\ImageBaseTest.pdb
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\AForge.dll
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\AForge.Imaging.dll
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\AForge.Math.dll
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\AForge.xml
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\AForge.Imaging.xml
+C:\TestProjects\ImageBaseTest\ImageBaseTest\bin\Debug\AForge.Math.xml
+C:\TestProjects\ImageBaseTest\ImageBaseTest\obj\Debug\ImageBaseTest.csprojResolveAssemblyReference.cache
+C:\TestProjects\ImageBaseTest\ImageBaseTest\obj\Debug\ImageBaseTest.dll
+C:\TestProjects\ImageBaseTest\ImageBaseTest\obj\Debug\ImageBaseTest.pdb
