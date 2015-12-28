@@ -36,10 +36,10 @@ namespace ImageBaseTest
 
         public static bool Exists(string imagePath)
         {
-            return GetImagePosition(imagePath) != null;
+            return GetImagePosition(imagePath).HasValue;
         }
 
-        public static Point? GetImagePosition(string imagePath)
+        private static Point? GetImagePosition(string imagePath)
         {
             var image = Image.FromFile(imagePath) as Bitmap;
             var screen = GetScreenImage();
