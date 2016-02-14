@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ImageBaseTest</id>
+        <version>1.0.0</version>
+        <authors>Ronen Rabinovitz</authors>
+        <owners>Ronen Rabinovitz</owners>
+        <projectUrl>https://github.com/rronen10/AutoImage</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Image application based testing on .NET platform</description>
+        <dependencies>
+            <dependency id="AForge" version="2.2.5" />
+            <dependency id="AForge.Math" version="2.2.5" />
+            <dependency id="AForge.Imaging" version="2.2.5" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="ImageBaseTest\bin\Release\ImageBaseTest.dll" target="lib\ImageBaseTest.dll" />
+    </files>
+</package>
